@@ -1,0 +1,4 @@
+Commande:
+
+jar cvmf MANIFEST.MF Programme.jar *.class
+java -jar Programme.jar
